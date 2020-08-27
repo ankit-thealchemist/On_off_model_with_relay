@@ -1,5 +1,3 @@
-# Hello World Example
+# Relay 
 
-Starts a FreeRTOS task to print "Hello World"
-
-See the README.md file in the upper level 'examples' directory for more information about examples.
+This code must be uploaded into the relay node only. It contain only the configuration server model only. so its perfect for relaying only. It will not create confusion to the beginners. 
