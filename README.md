@@ -10,7 +10,8 @@ Upload the on_off_sever code to one of the esp32 board with led at pin number 22
 
 
 <img src="./images/server_configuration2.JPG" width=100% height=100%>
-![server_configuration2](https://github.com/ankit-thealchemist/On_off_model_with_relay/images/serverconfiguration.JPG)
+
+![server_configuration2](https://github.com/ankit-thealchemist/On_off_model_with_relay/images/server_configuration2.JPG)
 
 Upload the code and run it.
 
